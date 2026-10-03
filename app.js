@@ -119,6 +119,7 @@
     });
     document.getElementById('addHazard').onclick=()=>{if(draft.hazards.length>=map.hazards.length)return;draft.hazards.push({step:'',hazard:'',risk:'',control:''});renderHazards();persist();document.querySelector('#hazardRows .hazard-row:last-child input').focus();};
     document.getElementById('showProgress').onclick=()=>document.getElementById('progressDialog').showModal();
+    document.getElementById('mobileProgress').onclick=()=>document.getElementById('progressDialog').showModal();
     document.getElementById('progressDialog').addEventListener('click',event=>{if(event.target.closest('a[href^="#"]'))document.getElementById('progressDialog').close();});
     document.getElementById('newForm').onclick=()=>{if(!confirm('Clear the saved '+map.title+' checklist? Download a backup or export it first to keep a copy. Other checklists will keep their progress.'))return;draft=empty();render();persist();window.scrollTo({top:0,behavior:'smooth'});};
     document.querySelectorAll('.export-button').forEach(b=>b.onclick=exportPdf);

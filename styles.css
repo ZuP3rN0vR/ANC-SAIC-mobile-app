@@ -8,3 +8,22 @@ html{scroll-behavior:auto}
 /* Document library and device-local saving. */
 select{font:inherit;color:var(--ink);background:white;border:1px solid #aabfcd;border-radius:8px;padding:12px 32px 12px 12px;min-height:50px;width:100%;max-width:100%;text-overflow:ellipsis}select:focus-visible{outline:3px solid #168eab;outline-offset:3px}.library-controls{border-bottom:1px solid var(--line);padding-bottom:20px;margin-bottom:22px}.save-status{font-size:13px;color:var(--teal);margin:10px 0;line-height:1.5}.save-status.error{color:#9a4812}.save-tools{font-size:14px;color:var(--muted)}.save-tools summary{cursor:pointer;min-height:36px;padding-block:6px;color:var(--ink)}.save-tools p{margin:10px 0}.save-actions{display:flex;flex-wrap:wrap;gap:8px}.save-actions .secondary-button{font-size:13px;padding:10px 12px}.save-tools #backupStatus:empty{display:none}h1{font-size:36px;overflow-wrap:break-word}.source-pdf{color:var(--teal)}.extra-fields{margin:18px 0 0 34px;display:grid;gap:16px}.overview{position:static}#checklistSelect:disabled{opacity:.7}
 @media(max-width:680px){h1{font-size:32px}.library-controls{margin-bottom:20px;padding-bottom:18px}.extra-fields{margin-left:0}.save-status{font-size:14px}.save-tools{font-size:14px}.document-tag{font-size:12px}.library-controls select{font-size:16px}}
+/* Phone navigation shares the bottom export bar so the form uses the full width. */
+.bottom-actions{display:flex;align-items:center;gap:8px}.mobile-tool{display:none}
+@media(max-width:680px){
+  body{padding-bottom:calc(140px + env(safe-area-inset-bottom))}
+  .workspace{padding-left:16px;padding-right:16px}
+  .side-tools{display:none}
+  .overview .intro{max-width:none}
+  nav{margin-inline:-16px;padding-inline:16px}
+  .bottom-bar{display:block;padding:10px 12px calc(10px + env(safe-area-inset-bottom))}
+  .bottom-summary{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:8px}
+  .bottom-summary strong{font-size:13px;white-space:nowrap}
+  .bottom-summary span{font-size:12px;text-align:right}
+  .bottom-actions{display:grid;grid-template-columns:minmax(72px,1fr) minmax(64px,1fr) minmax(130px,1.7fr);gap:8px}
+  .mobile-tool{display:flex;align-items:center;justify-content:center;min-height:48px;border:1px solid #b9cdd6;border-radius:8px;background:#f4f8fa;color:var(--ink);font:inherit;font-size:14px;font-weight:650;text-decoration:none;padding:10px 8px}
+  .mobile-tool:hover{background:#e8f5f2;border-color:var(--teal)}
+  .bottom-bar .primary-button{min-width:0;padding:12px 8px;font-size:14px}
+}
+@media(max-width:350px){.bottom-actions{gap:6px;grid-template-columns:minmax(70px,1fr) minmax(60px,.9fr) minmax(124px,1.6fr)}}
+@media(max-width:350px){.bottom-bar .primary-button{font-size:13px;padding-inline:6px;white-space:nowrap}}

@@ -20,8 +20,8 @@ No installation, build command, account connection or server is needed. All app 
 
 ## Completing and exporting
 
-- Tap **Progress** on the side for completed/total counts per section. Tap a section to jump to it.
-- Tap **Bottom** to reach the unfinished-section box and export controls.
+- Tap **Progress** in the bottom bar on your phone (on the side on larger screens) for completed/total counts per section. Tap a section to jump to it.
+- Tap **Bottom** beside Progress to reach the unfinished-section box and export controls.
 - A check is complete after its answer and required comments, head counts or other details are entered. Activity details and sign-offs have their own totals.
 - PDF export fills that activity's original document and keeps its original page count. No additional pages are created.
 - Entered comments replace the printed guidance inside filled Comment boxes; the guidance remains visible in the app. Debrief notes go in the original Remarks box.
@@ -38,3 +38,4 @@ Answers and signatures are stored and processed in your browser. The app does no
 - [GitHub Pages availability and project addresses](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)
 
 The bundled PDF library's license is included as `PDF-LIB-LICENSE.md`.
+
