@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#102c42">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Cadet checklists">
+  <meta name="description" content="Complete SAIC activity checklists, save progress on this device and export the original PDFs.">
+  <title>Cadet checklists</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23102c42'/%3E%3Cpath d='M7 11h18M7 17h18M7 23h18' stroke='%2348d1c3' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="pdf-lib.min.js" defer></script>
+  <script src="export.js" defer></script>
+  <script src="storage.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark" aria-hidden="true">≋</span>Cadet checklists</div><span class="document-tag" id="documentTag">SAIC · 20 checklists</span></div></header>
+  <div class="workspace">
+    <aside class="overview">
+      <div class="library-controls">
+        <label class="field" for="checklistSelect"><span>Choose a checklist</span></label>
+        <select id="checklistSelect" aria-describedby="saveStatus" disabled><option>Loading checklists…</option></select>
+        <p id="saveStatus" class="save-status" role="status" aria-live="polite">Loading saved progress…</p>
+        <details class="save-tools"><summary>Save & restore progress</summary><p>Automatically saved in this browser on this device. Download a backup to keep a copy or move it to another device.</p><div class="save-actions"><button type="button" id="saveProgress" class="secondary-button">Save now</button><button type="button" id="backupProgress" class="secondary-button">Download backup</button><button type="button" id="shareBackup" class="secondary-button" hidden>Share backup</button><button type="button" id="restoreProgress" class="text-button">Restore backup</button></div><input id="restoreFile" type="file" accept=".json,application/json" hidden><p id="backupStatus" role="status"></p></details>
+      </div>
+      <div class="eyebrow" id="chapterLabel">ACTIVITY CHECKLIST</div>
+      <h1 id="checklistTitle">Swim test</h1>
+      <p class="intro">Work through the checks, then export your completed document.</p>
+      <div class="summary"><div class="summary-label"><span>Checklist progress</span><strong id="progressCount">0 / 28</strong></div><div class="progress-track"><div id="progressBar"></div></div><span id="progressDescription">Ready when you are</span></div>
+      <nav aria-label="Checklist sections"><a href="#activity" class="navlink active"><span>01</span> Activity details <b data-nav-count="activity">0/5</b></a><a href="#planning" class="navlink"><span>02</span> Planning <b data-nav-count="planning">0/7</b></a><a href="#conduct" class="navlink"><span>03</span> Conduct <b data-nav-count="conduct">0/17</b></a><a href="#post" class="navlink"><span>04</span> Post activity <b data-nav-count="post">0/4</b></a><a href="#hazards" class="navlink"><span>05</span> Hazards & risks <b data-nav-count="hazards">—</b></a><a href="#signoff" class="navlink"><span>06</span> Sign-off <b data-nav-count="signoff">0/8</b></a></nav>
+      <a class="original-link" href="swim-test-original.pdf" target="_blank" rel="noopener">View original form <span class="filetype">PDF</span></a>
+      <p class="local-note" id="storageNote">Each checklist saves separately. Reopen this address in the same browser to continue.</p>
+    </aside>
+    <main id="main">
+      <section class="panel" id="activity"><div class="section-heading"><div><div class="eyebrow">01 / BEFORE YOU BEGIN</div><h2>Activity details</h2></div><span class="section-symbol" aria-hidden="true">≋</span></div><div class="field-grid" id="activityFields"></div><details class="source-note"><summary>Guidance from the original form</summary><p id="sourceGuidance">This checklist complements ANP4914. Refer to the original form for the activity-specific guidance and references.</p><a class="source-pdf" href="swim-test-original.pdf" target="_blank" rel="noopener">Read the original form</a></details></section>
+      <div id="checklistSections"></div>
+      <section class="panel" id="hazards"><div class="section-heading"><div><div class="eyebrow">05 / RECORD AS NEEDED</div><h2>Unexpected hazards & risks</h2></div></div><p class="section-description">If an unexpected hazard or risk arises before or during the activity, the Supervisor is required to rate it using the SRA risk matrix, determine a control or cease the activity, and advise all members of the control measure.</p><div id="hazardRows"></div><button class="text-button" id="addHazard" type="button">+ Add a hazard</button></section>
+      <section class="panel" id="signoff"><div class="section-heading"><div><div class="eyebrow">06 / FINAL RECORD</div><h2>Checks & sign-off</h2></div></div><div class="form-note"><strong>From the original form</strong><p>If any answer is “No”, comments are mandatory. The activity cannot commence until the associated Hazard Risk Assessment or Standing Risk Profile has been reassessed and residual risk assessed as acceptable. Comments are also mandatory for N/A.</p></div><div id="signoffFields"></div><label class="field full remarks"><span>Other activity remarks and feedback</span><textarea id="remarks" data-path="remarks" rows="5" placeholder="Add remarks, feedback or debrief notes…"></textarea></label></section>
+      <section class="panel unfinished-panel" id="unfinished"><div class="section-heading"><div><div class="eyebrow">REVIEW YOUR CHECKLIST</div><h2>Unfinished sections</h2></div></div><p class="section-description">Tap a section to jump back to it. A check is complete when its answer and any required details are filled in.</p><div id="unfinishedSections"></div></section>
+      <section class="export-panel" id="exportArea"><div><div class="eyebrow">YOUR DOCUMENT</div><h2>Ready to export?</h2><p id="exportSummary">You can export a draft at any time.</p><div id="missingSummary"></div></div><p class="export-explanation"><span id="pagePromise">Export keeps the original pages.</span> Your comments replace the printed guidance in filled Comment boxes. Debrief notes go in the Remarks box. Answers that are too long are flagged before export.</p><div class="export-actions"><button class="primary-button export-button" type="button">Export PDF</button><button id="sharePdf" class="secondary-button" type="button" hidden>Share PDF</button><a id="openPdf" class="secondary-button" hidden target="_blank" rel="noopener">Open PDF</a></div><div id="exportStatus" role="status" aria-live="polite"></div><button class="text-button new-form" id="newForm" type="button">Clear this checklist</button></section>
+      <footer class="page-footer">Progress saves on this device. Download a backup before clearing browser data.<br>SAIC · Original forms supplied by you</footer>
+    </main>
+  </div>
+  <div class="side-tools"><button id="showProgress" type="button" aria-haspopup="dialog" aria-controls="progressDialog" aria-label="Open section progress"><span aria-hidden="true">☷</span><span>Progress</span></button><a href="#unfinished" id="jumpBottom" aria-label="Jump to bottom"><span aria-hidden="true">⌄</span><span>Bottom</span></a></div>
+  <dialog id="progressDialog" class="progress-dialog" aria-labelledby="progressTitle"><form method="dialog"><button class="close-button" aria-label="Close section progress">×</button></form><div class="eyebrow">YOUR CHECKLIST</div><h2 id="progressTitle">Section progress</h2><p>Tap a section to jump to it.</p><div id="progressSections"></div><a class="drawer-bottom" href="#unfinished">Jump to bottom</a></dialog>
+  <div class="bottom-bar"><div><strong id="bottomProgress">0 of 28 checks</strong><span id="bottomState">In progress</span></div><button class="primary-button export-button" type="button">Export PDF</button></div>
+  <dialog id="signatureDialog" aria-labelledby="signatureTitle"><form method="dialog"><button class="close-button" aria-label="Close signature pad">×</button></form><div class="eyebrow">SIGNATURE</div><h2 id="signatureTitle">Draw your signature</h2><p>Use your finger or a mouse.</p><div class="signature-surface"><canvas id="signatureCanvas" width="900" height="300" aria-label="Signature drawing area"></canvas></div><div class="signature-actions"><button id="clearSignature" class="secondary-button" type="button">Clear</button><button id="saveSignature" class="primary-button" type="button">Use signature</button></div></dialog>
+  <div id="loadError" class="load-error" hidden>There was a problem loading the checklist. Please reload the page.</div>
+</body>
+</html>

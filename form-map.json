@@ -1,0 +1,2308 @@
+{
+  "sourceFilename": "Chapter 13 - SAIC - Swim Test.pdf",
+  "pageCount": 5,
+  "pageSize": {
+    "width": 595.32,
+    "height": 841.92
+  },
+  "coordinateSystem": "PDF points, bottom-left; rect y is bottom and center y is center. Pages are 1-based plus zero-based pageIndex. top/bottom are convenience original top-origin coordinates.",
+  "acroForm": false,
+  "annotations": false,
+  "sections": [
+    {
+      "id": "planning",
+      "title": "Activity Planning Considerations",
+      "count": 7
+    },
+    {
+      "id": "conduct",
+      "title": "Activity Conduct Considerations",
+      "count": 17
+    },
+    {
+      "id": "post",
+      "title": "Post Activity Considerations",
+      "count": 4
+    }
+  ],
+  "items": [
+    {
+      "id": "planning_weather",
+      "number": 1,
+      "page": 1,
+      "pageIndex": 0,
+      "section": "planning",
+      "category": "Environment",
+      "label": "Assessed the weather and other conditions are suitable to safely conduct the activity",
+      "guidance": "",
+      "yes": {
+        "x": 263.58,
+        "y": 312.663
+      },
+      "no": {
+        "x": 291.9,
+        "y": 312.663
+      },
+      "na": {
+        "x": 318.96,
+        "y": 312.663
+      },
+      "naAllowed": true,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 289.102,
+          "width": 30.84,
+          "height": 47.121,
+          "top": 505.697,
+          "bottom": 552.818
+        },
+        "no": {
+          "x": 279,
+          "y": 289.102,
+          "width": 25.8,
+          "height": 47.121,
+          "top": 505.697,
+          "bottom": 552.818
+        },
+        "na": {
+          "x": 304.8,
+          "y": 289.102,
+          "width": 28.32,
+          "height": 47.121,
+          "top": 505.697,
+          "bottom": 552.818
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 289.102,
+        "width": 189.9,
+        "height": 47.121,
+        "top": 505.697,
+        "bottom": 552.818
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 293.102,
+        "width": 179.9,
+        "height": 39.121,
+        "top": 509.697,
+        "bottom": 548.818
+      }
+    },
+    {
+      "id": "planning_lifeguard",
+      "number": 2,
+      "page": 1,
+      "pageIndex": 0,
+      "section": "planning",
+      "category": "Environment",
+      "label": "Activity should be conducted at swimming pool where there is a third-party lifeguard on duty",
+      "guidance": "",
+      "yes": {
+        "x": 263.58,
+        "y": 265.611
+      },
+      "no": {
+        "x": 291.9,
+        "y": 265.611
+      },
+      "na": {
+        "x": 318.96,
+        "y": 265.611
+      },
+      "naAllowed": true,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 242.12,
+          "width": 30.84,
+          "height": 46.982,
+          "top": 552.818,
+          "bottom": 599.8
+        },
+        "no": {
+          "x": 279,
+          "y": 242.12,
+          "width": 25.8,
+          "height": 46.982,
+          "top": 552.818,
+          "bottom": 599.8
+        },
+        "na": {
+          "x": 304.8,
+          "y": 242.12,
+          "width": 28.32,
+          "height": 46.982,
+          "top": 552.818,
+          "bottom": 599.8
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 242.12,
+        "width": 189.9,
+        "height": 46.982,
+        "top": 552.818,
+        "bottom": 599.8
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 246.12,
+        "width": 179.9,
+        "height": 38.982,
+        "top": 556.818,
+        "bottom": 595.8
+      }
+    },
+    {
+      "id": "planning_staff",
+      "number": 3,
+      "page": 1,
+      "pageIndex": 0,
+      "section": "planning",
+      "category": "People",
+      "label": "Assessed there are a suitable number of qualified ANC personnel to safely conduct the activity, including supervisory ratios",
+      "guidance": "The appropriate supervisory levels vary depending on the activity and other considerations including but not limited to: Gender balance Staff suitability Anticipated environmental conditions and duration of activity.",
+      "yes": {
+        "x": 263.58,
+        "y": 156.913
+      },
+      "no": {
+        "x": 291.9,
+        "y": 156.913
+      },
+      "na": {
+        "x": 318.96,
+        "y": 156.913
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 95.73,
+          "width": 30.84,
+          "height": 122.367,
+          "top": 623.823,
+          "bottom": 746.19
+        },
+        "no": {
+          "x": 279,
+          "y": 95.73,
+          "width": 25.8,
+          "height": 122.367,
+          "top": 623.823,
+          "bottom": 746.19
+        },
+        "na": {
+          "x": 304.8,
+          "y": 95.73,
+          "width": 28.32,
+          "height": 122.367,
+          "top": 623.823,
+          "bottom": 746.19
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 95.73,
+        "width": 189.9,
+        "height": 122.367,
+        "top": 623.823,
+        "bottom": 746.19
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "planning_medical",
+      "number": 4,
+      "page": 2,
+      "pageIndex": 1,
+      "section": "planning",
+      "category": "People",
+      "label": "Received all medical information for cadets and staff (PE149s) in readiness for commencement of activity",
+      "guidance": "Outline any limits on participation, and details of medication, allergy and anaphylaxis plans",
+      "yes": {
+        "x": 263.58,
+        "y": 740.399
+      },
+      "no": {
+        "x": 291.9,
+        "y": 740.399
+      },
+      "na": {
+        "x": 318.96,
+        "y": 740.399
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 711.207,
+          "width": 30.84,
+          "height": 58.383,
+          "top": 72.33,
+          "bottom": 130.713
+        },
+        "no": {
+          "x": 279,
+          "y": 711.207,
+          "width": 25.8,
+          "height": 58.383,
+          "top": 72.33,
+          "bottom": 130.713
+        },
+        "na": {
+          "x": 304.8,
+          "y": 711.207,
+          "width": 28.32,
+          "height": 58.383,
+          "top": 72.33,
+          "bottom": 130.713
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 711.207,
+        "width": 189.9,
+        "height": 58.383,
+        "top": 72.33,
+        "bottom": 130.713
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "planning_breaks",
+      "number": 5,
+      "page": 2,
+      "pageIndex": 1,
+      "section": "planning",
+      "category": "People",
+      "label": "Scheduled an adequate number of stand easy/breaks into the program to ensure cadets and staff have adequate rest",
+      "guidance": "",
+      "yes": {
+        "x": 263.58,
+        "y": 681.97
+      },
+      "no": {
+        "x": 291.9,
+        "y": 681.97
+      },
+      "na": {
+        "x": 318.96,
+        "y": 681.97
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 652.734,
+          "width": 30.84,
+          "height": 58.474,
+          "top": 130.713,
+          "bottom": 189.186
+        },
+        "no": {
+          "x": 279,
+          "y": 652.734,
+          "width": 25.8,
+          "height": 58.474,
+          "top": 130.713,
+          "bottom": 189.186
+        },
+        "na": {
+          "x": 304.8,
+          "y": 652.734,
+          "width": 28.32,
+          "height": 58.474,
+          "top": 130.713,
+          "bottom": 189.186
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 652.734,
+        "width": 189.9,
+        "height": 58.474,
+        "top": 130.713,
+        "bottom": 189.186
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 656.734,
+        "width": 179.9,
+        "height": 50.474,
+        "top": 134.713,
+        "bottom": 185.186
+      }
+    },
+    {
+      "id": "planning_clothing",
+      "number": 6,
+      "page": 2,
+      "pageIndex": 1,
+      "section": "planning",
+      "category": "Logistics",
+      "label": "Advised participants of equipment / clothing requirements",
+      "guidance": "Inform cadets and staff of equipment and clothing they should bring. Note anticipated weather conditions and seasonal factors",
+      "yes": {
+        "x": 263.58,
+        "y": 599.412
+      },
+      "no": {
+        "x": 291.9,
+        "y": 599.412
+      },
+      "na": {
+        "x": 318.96,
+        "y": 599.412
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 570.207,
+          "width": 30.84,
+          "height": 58.409,
+          "top": 213.303,
+          "bottom": 271.712
+        },
+        "no": {
+          "x": 279,
+          "y": 570.207,
+          "width": 25.8,
+          "height": 58.409,
+          "top": 213.303,
+          "bottom": 271.712
+        },
+        "na": {
+          "x": 304.8,
+          "y": 570.207,
+          "width": 28.32,
+          "height": 58.409,
+          "top": 213.303,
+          "bottom": 271.712
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 570.207,
+        "width": 189.9,
+        "height": 58.409,
+        "top": 213.303,
+        "bottom": 271.712
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "planning_communications",
+      "number": 7,
+      "page": 2,
+      "pageIndex": 1,
+      "section": "planning",
+      "category": "Logistics",
+      "label": "Assessed communication equipment is suitable for the location and conduct of the activity",
+      "guidance": "Mobile phone / radio",
+      "yes": {
+        "x": 263.58,
+        "y": 546.73
+      },
+      "no": {
+        "x": 291.9,
+        "y": 546.73
+      },
+      "na": {
+        "x": 318.96,
+        "y": 546.73
+      },
+      "naAllowed": true,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 523.253,
+          "width": 30.84,
+          "height": 46.954,
+          "top": 271.712,
+          "bottom": 318.667
+        },
+        "no": {
+          "x": 279,
+          "y": 523.253,
+          "width": 25.8,
+          "height": 46.954,
+          "top": 271.712,
+          "bottom": 318.667
+        },
+        "na": {
+          "x": 304.8,
+          "y": 523.253,
+          "width": 28.32,
+          "height": 46.954,
+          "top": 271.712,
+          "bottom": 318.667
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 523.253,
+        "width": 189.9,
+        "height": 46.954,
+        "top": 271.712,
+        "bottom": 318.667
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "conduct_briefing",
+      "number": 8,
+      "page": 2,
+      "pageIndex": 1,
+      "section": "conduct",
+      "category": "People",
+      "label": "Conducted an activity briefing prior to commencing the activity",
+      "guidance": "Brief should: Outline the activity Detail what cadets and staff will do and what is expected of them What are the key safety considerations (hazards and risks), site-specific concerns and what are the plans in the case of an incident. Who is the nominated Safety Officer for the activity Advise how to respond to incidents and emergencies Location of emergency muster point What are the first aid plans",
+      "yes": {
+        "x": 263.58,
+        "y": 334.732
+      },
+      "no": {
+        "x": 291.9,
+        "y": 334.732
+      },
+      "na": {
+        "x": 318.96,
+        "y": 334.732
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 218.16,
+          "width": 30.84,
+          "height": 233.142,
+          "top": 390.617,
+          "bottom": 623.76
+        },
+        "no": {
+          "x": 279,
+          "y": 218.16,
+          "width": 25.8,
+          "height": 233.142,
+          "top": 390.617,
+          "bottom": 623.76
+        },
+        "na": {
+          "x": 304.8,
+          "y": 218.16,
+          "width": 28.32,
+          "height": 233.142,
+          "top": 390.617,
+          "bottom": 623.76
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 218.16,
+        "width": 189.9,
+        "height": 233.142,
+        "top": 390.617,
+        "bottom": 623.76
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 222.16,
+        "width": 179.9,
+        "height": 14.662,
+        "top": 605.098,
+        "bottom": 619.76
+      }
+    },
+    {
+      "id": "conduct_emergency",
+      "number": 9,
+      "page": 2,
+      "pageIndex": 1,
+      "section": "conduct",
+      "category": "People",
+      "label": "Confirmed the Emergency Plan",
+      "guidance": "Details of local hospital and police. Consider situations that could occur and how you plan to respond.",
+      "yes": {
+        "x": 263.58,
+        "y": 182.94
+      },
+      "no": {
+        "x": 291.9,
+        "y": 182.94
+      },
+      "na": {
+        "x": 318.96,
+        "y": 182.94
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 147.72,
+          "width": 30.84,
+          "height": 70.44,
+          "top": 623.76,
+          "bottom": 694.2
+        },
+        "no": {
+          "x": 279,
+          "y": 147.72,
+          "width": 25.8,
+          "height": 70.44,
+          "top": 623.76,
+          "bottom": 694.2
+        },
+        "na": {
+          "x": 304.8,
+          "y": 147.72,
+          "width": 28.32,
+          "height": 70.44,
+          "top": 623.76,
+          "bottom": 694.2
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 147.72,
+        "width": 189.9,
+        "height": 70.44,
+        "top": 623.76,
+        "bottom": 694.2
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 151.72,
+        "width": 179.9,
+        "height": 14.679,
+        "top": 675.521,
+        "bottom": 690.2
+      }
+    },
+    {
+      "id": "conduct_medical",
+      "number": 10,
+      "page": 2,
+      "pageIndex": 1,
+      "section": "conduct",
+      "category": "People",
+      "label": "Reviewed PE149s and acknowledge the cadets and staff with medical issues. Specifically, MAMP must detail plans for allergies and anaphylaxis and ensure all members who have disclosed a medical condition have the appropriate medication and quantity that will cater for the entire activity.",
+      "guidance": "Where there is a cadet with a disability, the MAMP must outline how the activity will be adjusted to provide the cadet an opportunity to participate. Or include evidence / advice that such an adjustment is not reasonable / not achievable. All medication required during the activity must be sighted prior to commencement.",
+      "yes": {
+        "x": 263.58,
+        "y": 115.751
+      },
+      "no": {
+        "x": 291.9,
+        "y": 115.751
+      },
+      "na": {
+        "x": 318.96,
+        "y": 115.751
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 83.782,
+          "width": 30.84,
+          "height": 63.938,
+          "top": 694.2,
+          "bottom": 758.138
+        },
+        "no": {
+          "x": 279,
+          "y": 83.782,
+          "width": 25.8,
+          "height": 63.938,
+          "top": 694.2,
+          "bottom": 758.138
+        },
+        "na": {
+          "x": 304.8,
+          "y": 83.782,
+          "width": 28.32,
+          "height": 63.938,
+          "top": 694.2,
+          "bottom": 758.138
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 83.782,
+        "width": 189.9,
+        "height": 63.938,
+        "top": 694.2,
+        "bottom": 758.138
+      },
+      "commentRegion": null,
+      "continuation": {
+        "page": 3,
+        "pageIndex": 2,
+        "yes": {
+          "x": 263.58,
+          "y": 743.46
+        },
+        "no": {
+          "x": 291.938,
+          "y": 743.46
+        },
+        "na": {
+          "x": 318.96,
+          "y": 743.46
+        },
+        "commentCell": {
+          "x": 333.045,
+          "y": 717.262,
+          "width": 190.02,
+          "height": 52.397,
+          "top": 72.261,
+          "bottom": 124.658
+        }
+      }
+    },
+    {
+      "id": "conduct_rest",
+      "number": 11,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "People",
+      "label": "Advised members the location of a shaded area where they can rest when required",
+      "guidance": "",
+      "yes": {
+        "x": 263.58,
+        "y": 693.711
+      },
+      "no": {
+        "x": 291.9,
+        "y": 693.711
+      },
+      "na": {
+        "x": 318.96,
+        "y": 693.711
+      },
+      "naAllowed": true,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 670.16,
+          "width": 30.84,
+          "height": 47.102,
+          "top": 124.658,
+          "bottom": 171.76
+        },
+        "no": {
+          "x": 279,
+          "y": 670.16,
+          "width": 25.8,
+          "height": 47.102,
+          "top": 124.658,
+          "bottom": 171.76
+        },
+        "na": {
+          "x": 304.8,
+          "y": 670.16,
+          "width": 28.32,
+          "height": 47.102,
+          "top": 124.658,
+          "bottom": 171.76
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 670.16,
+        "width": 189.9,
+        "height": 47.102,
+        "top": 124.658,
+        "bottom": 171.76
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 674.16,
+        "width": 179.9,
+        "height": 39.102,
+        "top": 128.658,
+        "bottom": 167.76
+      }
+    },
+    {
+      "id": "conduct_clothing",
+      "number": 12,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "People",
+      "label": "Confirmed all members have appropriate participant equipment and clothing",
+      "guidance": "This list includes but not limited to: Drink bottle (filled with water) Hat/Broad Brimmed Hat Have applied sunscreen Suitable footwear for activity Clothing",
+      "yes": {
+        "x": 263.58,
+        "y": 614.431
+      },
+      "no": {
+        "x": 291.9,
+        "y": 614.431
+      },
+      "na": {
+        "x": 318.96,
+        "y": 614.431
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 558.702,
+          "width": 30.84,
+          "height": 111.458,
+          "top": 171.76,
+          "bottom": 283.218
+        },
+        "no": {
+          "x": 279,
+          "y": 558.702,
+          "width": 25.8,
+          "height": 111.458,
+          "top": 171.76,
+          "bottom": 283.218
+        },
+        "na": {
+          "x": 304.8,
+          "y": 558.702,
+          "width": 28.32,
+          "height": 111.458,
+          "top": 171.76,
+          "bottom": 283.218
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 558.702,
+        "width": 189.9,
+        "height": 111.458,
+        "top": 171.76,
+        "bottom": 283.218
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "conduct_supervision",
+      "number": 13,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "People",
+      "label": "Confirmed supervisory responsibilities are appropriately assigned.",
+      "guidance": "Supervisory ratios, etc. Are members assigned supervisory responsibilities qualified / experienced and suitably screened?",
+      "yes": {
+        "x": 263.58,
+        "y": 526.422
+      },
+      "no": {
+        "x": 291.9,
+        "y": 526.422
+      },
+      "na": {
+        "x": 318.96,
+        "y": 526.422
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 494.142,
+          "width": 30.84,
+          "height": 64.56,
+          "top": 283.218,
+          "bottom": 347.778
+        },
+        "no": {
+          "x": 279,
+          "y": 494.142,
+          "width": 25.8,
+          "height": 64.56,
+          "top": 283.218,
+          "bottom": 347.778
+        },
+        "na": {
+          "x": 304.8,
+          "y": 494.142,
+          "width": 28.32,
+          "height": 64.56,
+          "top": 283.218,
+          "bottom": 347.778
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 494.142,
+        "width": 189.9,
+        "height": 64.56,
+        "top": 283.218,
+        "bottom": 347.778
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "conduct_public",
+      "number": 14,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "People",
+      "label": "Advised cadets and staff of safety considerations when conducting activities in the public domain",
+      "guidance": "Staff members are to ensure that no inappropriate interactions occur between youth and members of the public",
+      "yes": {
+        "x": 263.58,
+        "y": 474.102
+      },
+      "no": {
+        "x": 291.9,
+        "y": 474.102
+      },
+      "na": {
+        "x": 318.96,
+        "y": 474.102
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 454.062,
+          "width": 30.84,
+          "height": 40.08,
+          "top": 347.778,
+          "bottom": 387.858
+        },
+        "no": {
+          "x": 279,
+          "y": 454.062,
+          "width": 25.8,
+          "height": 40.08,
+          "top": 347.778,
+          "bottom": 387.858
+        },
+        "na": {
+          "x": 304.8,
+          "y": 454.062,
+          "width": 28.32,
+          "height": 40.08,
+          "top": 347.778,
+          "bottom": 387.858
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 454.062,
+        "width": 189.9,
+        "height": 40.08,
+        "top": 347.778,
+        "bottom": 387.858
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "conduct_headcount",
+      "number": 15,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "People",
+      "label": "Completed a head count at commencement and throughout the activity.",
+      "guidance": "Confirmed Numbers of: Officer of Cadets = ___ DAHs = ___ Cadets = ___",
+      "yes": {
+        "x": 263.58,
+        "y": 415.842
+      },
+      "no": {
+        "x": 291.9,
+        "y": 415.842
+      },
+      "na": {
+        "x": 318.96,
+        "y": 415.842
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 377.622,
+          "width": 30.84,
+          "height": 76.44,
+          "top": 387.858,
+          "bottom": 464.298
+        },
+        "no": {
+          "x": 279,
+          "y": 377.622,
+          "width": 25.8,
+          "height": 76.44,
+          "top": 387.858,
+          "bottom": 464.298
+        },
+        "na": {
+          "x": 304.8,
+          "y": 377.622,
+          "width": 28.32,
+          "height": 76.44,
+          "top": 387.858,
+          "bottom": 464.298
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 377.622,
+        "width": 189.9,
+        "height": 76.44,
+        "top": 387.858,
+        "bottom": 464.298
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "conduct_grabbag",
+      "number": 16,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "Equipment",
+      "label": "Confirmed a grab bag is provided for the activity and contents checked.",
+      "guidance": "Detail location of grab bag: Refer to ANP4914 Chapter 6 Section 3",
+      "yes": {
+        "x": 263.58,
+        "y": 332.871
+      },
+      "no": {
+        "x": 291.9,
+        "y": 332.871
+      },
+      "na": {
+        "x": 318.96,
+        "y": 332.871
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 312.102,
+          "width": 30.84,
+          "height": 41.538,
+          "top": 488.28,
+          "bottom": 529.818
+        },
+        "no": {
+          "x": 279,
+          "y": 312.102,
+          "width": 25.8,
+          "height": 41.538,
+          "top": 488.28,
+          "bottom": 529.818
+        },
+        "na": {
+          "x": 304.8,
+          "y": 312.102,
+          "width": 28.32,
+          "height": 41.538,
+          "top": 488.28,
+          "bottom": 529.818
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 312.102,
+        "width": 189.9,
+        "height": 41.538,
+        "top": 488.28,
+        "bottom": 529.818
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "conduct_equipment",
+      "number": 17,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "Equipment",
+      "label": "Confirmed that all equipment being used fit for purpose and safe",
+      "guidance": "",
+      "yes": {
+        "x": 263.58,
+        "y": 294.342
+      },
+      "no": {
+        "x": 291.9,
+        "y": 294.342
+      },
+      "na": {
+        "x": 318.96,
+        "y": 294.342
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 276.582,
+          "width": 30.84,
+          "height": 35.52,
+          "top": 529.818,
+          "bottom": 565.338
+        },
+        "no": {
+          "x": 279,
+          "y": 276.582,
+          "width": 25.8,
+          "height": 35.52,
+          "top": 529.818,
+          "bottom": 565.338
+        },
+        "na": {
+          "x": 304.8,
+          "y": 276.582,
+          "width": 28.32,
+          "height": 35.52,
+          "top": 529.818,
+          "bottom": 565.338
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 276.582,
+        "width": 189.9,
+        "height": 35.52,
+        "top": 529.818,
+        "bottom": 565.338
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 280.582,
+        "width": 179.9,
+        "height": 27.52,
+        "top": 533.818,
+        "bottom": 561.338
+      }
+    },
+    {
+      "id": "conduct_weather",
+      "number": 18,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "Environment",
+      "label": "Confirmed environmental / weather conditions are appropriate for activity",
+      "guidance": "What is the anticipated weather for the activity? Include excepted weather reports and heat/ wind / rainfall considerations",
+      "yes": {
+        "x": 263.58,
+        "y": 223.371
+      },
+      "no": {
+        "x": 291.9,
+        "y": 223.371
+      },
+      "na": {
+        "x": 318.96,
+        "y": 223.371
+      },
+      "naAllowed": true,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 194.123,
+          "width": 30.84,
+          "height": 58.495,
+          "top": 589.302,
+          "bottom": 647.797
+        },
+        "no": {
+          "x": 279,
+          "y": 194.123,
+          "width": 25.8,
+          "height": 58.495,
+          "top": 589.302,
+          "bottom": 647.797
+        },
+        "na": {
+          "x": 304.8,
+          "y": 194.123,
+          "width": 28.32,
+          "height": 58.495,
+          "top": 589.302,
+          "bottom": 647.797
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 194.123,
+        "width": 189.9,
+        "height": 58.495,
+        "top": 589.302,
+        "bottom": 647.797
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "conduct_shelter",
+      "number": 19,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "Environment",
+      "label": "Confirmed adequate shade and shelter is provided",
+      "guidance": "",
+      "yes": {
+        "x": 263.58,
+        "y": 176.372
+      },
+      "no": {
+        "x": 291.9,
+        "y": 176.372
+      },
+      "na": {
+        "x": 318.96,
+        "y": 176.372
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 158.622,
+          "width": 30.84,
+          "height": 35.502,
+          "top": 647.797,
+          "bottom": 683.298
+        },
+        "no": {
+          "x": 279,
+          "y": 158.622,
+          "width": 25.8,
+          "height": 35.502,
+          "top": 647.797,
+          "bottom": 683.298
+        },
+        "na": {
+          "x": 304.8,
+          "y": 158.622,
+          "width": 28.32,
+          "height": 35.502,
+          "top": 647.797,
+          "bottom": 683.298
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 158.622,
+        "width": 189.9,
+        "height": 35.502,
+        "top": 647.797,
+        "bottom": 683.298
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 162.622,
+        "width": 179.9,
+        "height": 27.502,
+        "top": 651.797,
+        "bottom": 679.298
+      }
+    },
+    {
+      "id": "conduct_water",
+      "number": 20,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "Environment",
+      "label": "Confirmed water is available to all members",
+      "guidance": "Calculate the amount of water taking into consideration weather conditions, activity intensity, and event duration.",
+      "yes": {
+        "x": 263.58,
+        "y": 135.102
+      },
+      "no": {
+        "x": 291.9,
+        "y": 135.102
+      },
+      "na": {
+        "x": 318.96,
+        "y": 135.102
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 111.582,
+          "width": 30.84,
+          "height": 47.04,
+          "top": 683.298,
+          "bottom": 730.338
+        },
+        "no": {
+          "x": 279,
+          "y": 111.582,
+          "width": 25.8,
+          "height": 47.04,
+          "top": 683.298,
+          "bottom": 730.338
+        },
+        "na": {
+          "x": 304.8,
+          "y": 111.582,
+          "width": 28.32,
+          "height": 47.04,
+          "top": 683.298,
+          "bottom": 730.338
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 111.582,
+        "width": 189.9,
+        "height": 47.04,
+        "top": 683.298,
+        "bottom": 730.338
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "conduct_venue",
+      "number": 21,
+      "page": 3,
+      "pageIndex": 2,
+      "section": "conduct",
+      "category": "Environment",
+      "label": "Confirmed the location and facility is suitable for the activity",
+      "guidance": "",
+      "yes": {
+        "x": 263.58,
+        "y": 93.842
+      },
+      "no": {
+        "x": 291.9,
+        "y": 93.842
+      },
+      "na": {
+        "x": 318.96,
+        "y": 93.842
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 76.102,
+          "width": 30.84,
+          "height": 35.48,
+          "top": 730.338,
+          "bottom": 765.818
+        },
+        "no": {
+          "x": 279,
+          "y": 76.102,
+          "width": 25.8,
+          "height": 35.48,
+          "top": 730.338,
+          "bottom": 765.818
+        },
+        "na": {
+          "x": 304.8,
+          "y": 76.102,
+          "width": 28.32,
+          "height": 35.48,
+          "top": 730.338,
+          "bottom": 765.818
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 76.102,
+        "width": 189.9,
+        "height": 35.48,
+        "top": 730.338,
+        "bottom": 765.818
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 80.102,
+        "width": 179.9,
+        "height": 27.48,
+        "top": 734.338,
+        "bottom": 761.818
+      }
+    },
+    {
+      "id": "transport_licensed",
+      "number": 22,
+      "page": 4,
+      "pageIndex": 3,
+      "section": "conduct",
+      "category": "Transport",
+      "label": "The member(s) of staff responsible for driving and the vehicle(s) used to transport ANC members to and from activities is / are appropriately licensed / registered / insured?",
+      "guidance": "",
+      "yes": {
+        "x": 263.58,
+        "y": 710.691
+      },
+      "no": {
+        "x": 291.9,
+        "y": 710.691
+      },
+      "na": {
+        "x": 318.96,
+        "y": 710.691
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 675.702,
+          "width": 30.84,
+          "height": 69.978,
+          "top": 96.24,
+          "bottom": 166.218
+        },
+        "no": {
+          "x": 279,
+          "y": 675.702,
+          "width": 25.8,
+          "height": 69.978,
+          "top": 96.24,
+          "bottom": 166.218
+        },
+        "na": {
+          "x": 304.8,
+          "y": 675.702,
+          "width": 28.32,
+          "height": 69.978,
+          "top": 96.24,
+          "bottom": 166.218
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 675.702,
+        "width": 189.9,
+        "height": 69.978,
+        "top": 96.24,
+        "bottom": 166.218
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 679.702,
+        "width": 179.9,
+        "height": 61.978,
+        "top": 100.24,
+        "bottom": 162.218
+      }
+    },
+    {
+      "id": "transport_fatigue",
+      "number": 23,
+      "page": 4,
+      "pageIndex": 3,
+      "section": "conduct",
+      "category": "Transport",
+      "label": "The member(s) of staff responsible for driving are not impaired by fatigue prior to driving?",
+      "guidance": "",
+      "yes": {
+        "x": 263.58,
+        "y": 652.182
+      },
+      "no": {
+        "x": 291.9,
+        "y": 652.182
+      },
+      "na": {
+        "x": 318.96,
+        "y": 652.182
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 628.662,
+          "width": 30.84,
+          "height": 47.04,
+          "top": 166.218,
+          "bottom": 213.258
+        },
+        "no": {
+          "x": 279,
+          "y": 628.662,
+          "width": 25.8,
+          "height": 47.04,
+          "top": 166.218,
+          "bottom": 213.258
+        },
+        "na": {
+          "x": 304.8,
+          "y": 628.662,
+          "width": 28.32,
+          "height": 47.04,
+          "top": 166.218,
+          "bottom": 213.258
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 628.662,
+        "width": 189.9,
+        "height": 47.04,
+        "top": 166.218,
+        "bottom": 213.258
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 632.662,
+        "width": 179.9,
+        "height": 39.04,
+        "top": 170.218,
+        "bottom": 209.258
+      }
+    },
+    {
+      "id": "transport_vehicle",
+      "number": 24,
+      "page": 4,
+      "pageIndex": 3,
+      "section": "conduct",
+      "category": "Transport",
+      "label": "The vehicle(s) used to transport all members to and from activity is appropriately maintained and suitable for the activity?",
+      "guidance": "",
+      "yes": {
+        "x": 263.58,
+        "y": 599.407
+      },
+      "no": {
+        "x": 291.9,
+        "y": 599.407
+      },
+      "na": {
+        "x": 318.96,
+        "y": 599.407
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 248.16,
+          "y": 570.153,
+          "width": 30.84,
+          "height": 58.509,
+          "top": 213.258,
+          "bottom": 271.767
+        },
+        "no": {
+          "x": 279,
+          "y": 570.153,
+          "width": 25.8,
+          "height": 58.509,
+          "top": 213.258,
+          "bottom": 271.767
+        },
+        "na": {
+          "x": 304.8,
+          "y": 570.153,
+          "width": 28.32,
+          "height": 58.509,
+          "top": 213.258,
+          "bottom": 271.767
+        }
+      },
+      "commentCell": {
+        "x": 333.12,
+        "y": 570.153,
+        "width": 189.9,
+        "height": 58.509,
+        "top": 213.258,
+        "bottom": 271.767
+      },
+      "commentRegion": {
+        "x": 338.12,
+        "y": 574.153,
+        "width": 179.9,
+        "height": 50.509,
+        "top": 217.258,
+        "bottom": 267.767
+      }
+    },
+    {
+      "id": "post_headcount",
+      "number": 25,
+      "page": 4,
+      "pageIndex": 3,
+      "section": "post",
+      "category": "Post activity",
+      "label": "Completed head count on completion of the activity.",
+      "guidance": "Confirmed Numbers of: Officer of Cadets = ___ DAHs = ___ Cadets = ___",
+      "yes": {
+        "x": 270.06,
+        "y": 461.026
+      },
+      "no": {
+        "x": 302.25,
+        "y": 461.026
+      },
+      "na": {
+        "x": 333.04,
+        "y": 461.026
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 254.64,
+          "y": 422.75,
+          "width": 30.84,
+          "height": 76.553,
+          "top": 342.617,
+          "bottom": 419.17
+        },
+        "no": {
+          "x": 285.48,
+          "y": 422.75,
+          "width": 33.54,
+          "height": 76.553,
+          "top": 342.617,
+          "bottom": 419.17
+        },
+        "na": {
+          "x": 319.02,
+          "y": 422.75,
+          "width": 28.04,
+          "height": 76.553,
+          "top": 342.617,
+          "bottom": 419.17
+        }
+      },
+      "commentCell": {
+        "x": 347.06,
+        "y": 422.75,
+        "width": 175.96,
+        "height": 76.553,
+        "top": 342.617,
+        "bottom": 419.17
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "post_reports",
+      "number": 26,
+      "page": 4,
+      "pageIndex": 3,
+      "section": "post",
+      "category": "Post activity",
+      "label": "Confirmed that all applicable Incident Reports & Sentinel Reports have been submitted/lodged?",
+      "guidance": "Refer to ANP4914 Chapter 6, Section 1",
+      "yes": {
+        "x": 270.06,
+        "y": 399.226
+      },
+      "no": {
+        "x": 302.25,
+        "y": 399.226
+      },
+      "na": {
+        "x": 333.04,
+        "y": 399.226
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 254.64,
+          "y": 375.702,
+          "width": 30.84,
+          "height": 47.048,
+          "top": 419.17,
+          "bottom": 466.218
+        },
+        "no": {
+          "x": 285.48,
+          "y": 375.702,
+          "width": 33.54,
+          "height": 47.048,
+          "top": 419.17,
+          "bottom": 466.218
+        },
+        "na": {
+          "x": 319.02,
+          "y": 375.702,
+          "width": 28.04,
+          "height": 47.048,
+          "top": 419.17,
+          "bottom": 466.218
+        }
+      },
+      "commentCell": {
+        "x": 347.06,
+        "y": 375.702,
+        "width": 175.96,
+        "height": 47.048,
+        "top": 419.17,
+        "bottom": 466.218
+      },
+      "commentRegion": null
+    },
+    {
+      "id": "post_roll",
+      "number": 27,
+      "page": 4,
+      "pageIndex": 3,
+      "section": "post",
+      "category": "Post activity",
+      "label": "Completed the CadetNet Activity Roll?",
+      "guidance": "",
+      "yes": {
+        "x": 270.06,
+        "y": 363.72
+      },
+      "no": {
+        "x": 302.25,
+        "y": 363.72
+      },
+      "na": {
+        "x": 333.04,
+        "y": 363.72
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 254.64,
+          "y": 351.739,
+          "width": 30.84,
+          "height": 23.963,
+          "top": 466.218,
+          "bottom": 490.181
+        },
+        "no": {
+          "x": 285.48,
+          "y": 351.739,
+          "width": 33.54,
+          "height": 23.963,
+          "top": 466.218,
+          "bottom": 490.181
+        },
+        "na": {
+          "x": 319.02,
+          "y": 351.739,
+          "width": 28.04,
+          "height": 23.963,
+          "top": 466.218,
+          "bottom": 490.181
+        }
+      },
+      "commentCell": {
+        "x": 347.06,
+        "y": 351.739,
+        "width": 175.96,
+        "height": 23.963,
+        "top": 466.218,
+        "bottom": 490.181
+      },
+      "commentRegion": {
+        "x": 352.06,
+        "y": 355.739,
+        "width": 165.96,
+        "height": 15.963,
+        "top": 470.218,
+        "bottom": 486.181
+      }
+    },
+    {
+      "id": "post_debrief",
+      "number": 28,
+      "page": 4,
+      "pageIndex": 3,
+      "section": "post",
+      "category": "Post activity",
+      "label": "Undertaken Debrief with all participants and those that supported activity",
+      "guidance": "Copy of notes to be attached",
+      "yes": {
+        "x": 270.06,
+        "y": 328.22
+      },
+      "no": {
+        "x": 302.25,
+        "y": 328.22
+      },
+      "na": {
+        "x": 333.04,
+        "y": 328.22
+      },
+      "naAllowed": false,
+      "cells": {
+        "yes": {
+          "x": 254.64,
+          "y": 304.702,
+          "width": 30.84,
+          "height": 47.037,
+          "top": 490.181,
+          "bottom": 537.218
+        },
+        "no": {
+          "x": 285.48,
+          "y": 304.702,
+          "width": 33.54,
+          "height": 47.037,
+          "top": 490.181,
+          "bottom": 537.218
+        },
+        "na": {
+          "x": 319.02,
+          "y": 304.702,
+          "width": 28.04,
+          "height": 47.037,
+          "top": 490.181,
+          "bottom": 537.218
+        }
+      },
+      "commentCell": {
+        "x": 347.06,
+        "y": 304.702,
+        "width": 175.96,
+        "height": 47.037,
+        "top": 490.181,
+        "bottom": 537.218
+      },
+      "commentRegion": {
+        "x": 352.06,
+        "y": 308.702,
+        "width": 165.96,
+        "height": 20.181,
+        "top": 513.037,
+        "bottom": 533.218
+      }
+    }
+  ],
+  "headerFields": [
+    {
+      "id": "location",
+      "label": "Location",
+      "page": 1,
+      "pageIndex": 0,
+      "rect": {
+        "x": 75.48,
+        "y": 434.28,
+        "width": 84.72,
+        "height": 25.32,
+        "top": 382.32,
+        "bottom": 407.64
+      }
+    },
+    {
+      "id": "date",
+      "label": "Date",
+      "page": 1,
+      "pageIndex": 0,
+      "rect": {
+        "x": 166.2,
+        "y": 434.28,
+        "width": 81.6,
+        "height": 25.32,
+        "top": 382.32,
+        "bottom": 407.64
+      }
+    },
+    {
+      "id": "activityNumber",
+      "label": "Activity Number",
+      "page": 1,
+      "pageIndex": 0,
+      "rect": {
+        "x": 253.8,
+        "y": 434.28,
+        "width": 84.24,
+        "height": 25.32,
+        "top": 382.32,
+        "bottom": 407.64
+      }
+    },
+    {
+      "id": "officerInCharge",
+      "label": "Officer in Charge",
+      "page": 1,
+      "pageIndex": 0,
+      "rect": {
+        "x": 344.04,
+        "y": 434.28,
+        "width": 83.52,
+        "height": 25.32,
+        "top": 382.32,
+        "bottom": 407.64
+      }
+    },
+    {
+      "id": "unit",
+      "label": "Unit/Flotilla",
+      "page": 1,
+      "pageIndex": 0,
+      "rect": {
+        "x": 433.56,
+        "y": 434.28,
+        "width": 86.28,
+        "height": 25.32,
+        "top": 382.32,
+        "bottom": 407.64
+      }
+    }
+  ],
+  "signoffs": [
+    {
+      "id": "checks",
+      "title": "Checks conducted by",
+      "fields": [
+        {
+          "id": "name",
+          "label": "Name",
+          "page": 5,
+          "pageIndex": 4,
+          "rect": {
+            "x": 75.48,
+            "y": 615.0,
+            "width": 106.44,
+            "height": 21.96,
+            "top": 204.96,
+            "bottom": 226.92
+          }
+        },
+        {
+          "id": "rank",
+          "label": "Rank",
+          "page": 5,
+          "pageIndex": 4,
+          "rect": {
+            "x": 187.92,
+            "y": 615.0,
+            "width": 106.08,
+            "height": 21.96,
+            "top": 204.96,
+            "bottom": 226.92
+          }
+        },
+        {
+          "id": "signature",
+          "label": "Signature",
+          "page": 5,
+          "pageIndex": 4,
+          "rect": {
+            "x": 300,
+            "y": 615.0,
+            "width": 108.36,
+            "height": 21.96,
+            "top": 204.96,
+            "bottom": 226.92
+          }
+        },
+        {
+          "id": "date",
+          "label": "Date",
+          "page": 5,
+          "pageIndex": 4,
+          "rect": {
+            "x": 414.36,
+            "y": 615.0,
+            "width": 105.48,
+            "height": 21.96,
+            "top": 204.96,
+            "bottom": 226.92
+          }
+        }
+      ]
+    },
+    {
+      "id": "officer",
+      "title": "Activity Officer in Charge Sign Off",
+      "fields": [
+        {
+          "id": "name",
+          "label": "Name",
+          "page": 5,
+          "pageIndex": 4,
+          "rect": {
+            "x": 75.48,
+            "y": 536.76,
+            "width": 106.44,
+            "height": 24.24,
+            "top": 280.92,
+            "bottom": 305.16
+          }
+        },
+        {
+          "id": "rank",
+          "label": "Rank",
+          "page": 5,
+          "pageIndex": 4,
+          "rect": {
+            "x": 187.92,
+            "y": 536.76,
+            "width": 106.08,
+            "height": 24.24,
+            "top": 280.92,
+            "bottom": 305.16
+          }
+        },
+        {
+          "id": "signature",
+          "label": "Signature",
+          "page": 5,
+          "pageIndex": 4,
+          "rect": {
+            "x": 300,
+            "y": 536.76,
+            "width": 108.36,
+            "height": 24.24,
+            "top": 280.92,
+            "bottom": 305.16
+          }
+        },
+        {
+          "id": "date",
+          "label": "Date",
+          "page": 5,
+          "pageIndex": 4,
+          "rect": {
+            "x": 414.36,
+            "y": 536.76,
+            "width": 105.48,
+            "height": 24.24,
+            "top": 280.92,
+            "bottom": 305.16
+          }
+        }
+      ]
+    }
+  ],
+  "headcounts": [
+    {
+      "id": "commencement",
+      "fields": [
+        {
+          "id": "officers",
+          "label": "Officer of Cadets",
+          "page": 3,
+          "pageIndex": 2,
+          "rect": {
+            "x": 430.424,
+            "y": 416.723,
+            "width": 55.0,
+            "height": 12.96,
+            "top": 412.237,
+            "bottom": 425.197
+          },
+          "baselineY": 419.523,
+          "eraseRect": {
+            "x": 429.624,
+            "y": 416.723,
+            "width": 18.296,
+            "height": 11.96,
+            "top": 413.237,
+            "bottom": 425.197
+          }
+        },
+        {
+          "id": "dahs",
+          "label": "DAHs",
+          "page": 3,
+          "pageIndex": 2,
+          "rect": {
+            "x": 381.479,
+            "y": 399.204,
+            "width": 55.0,
+            "height": 12.96,
+            "top": 429.756,
+            "bottom": 442.716
+          },
+          "baselineY": 402.004,
+          "eraseRect": {
+            "x": 380.679,
+            "y": 399.204,
+            "width": 18.298,
+            "height": 11.96,
+            "top": 430.756,
+            "bottom": 442.716
+          }
+        },
+        {
+          "id": "cadets",
+          "label": "Cadets",
+          "page": 3,
+          "pageIndex": 2,
+          "rect": {
+            "x": 387.112,
+            "y": 381.804,
+            "width": 55.0,
+            "height": 12.96,
+            "top": 447.156,
+            "bottom": 460.116
+          },
+          "baselineY": 384.604,
+          "eraseRect": {
+            "x": 386.312,
+            "y": 381.804,
+            "width": 18.173,
+            "height": 11.96,
+            "top": 448.156,
+            "bottom": 460.116
+          }
+        }
+      ]
+    },
+    {
+      "id": "completion",
+      "fields": [
+        {
+          "id": "officers",
+          "label": "Officer of Cadets",
+          "page": 4,
+          "pageIndex": 3,
+          "rect": {
+            "x": 444.464,
+            "y": 461.843,
+            "width": 55.0,
+            "height": 12.96,
+            "top": 367.117,
+            "bottom": 380.077
+          },
+          "baselineY": 464.643,
+          "eraseRect": {
+            "x": 443.664,
+            "y": 461.843,
+            "width": 18.296,
+            "height": 11.96,
+            "top": 368.117,
+            "bottom": 380.077
+          }
+        },
+        {
+          "id": "dahs",
+          "label": "DAHs",
+          "page": 4,
+          "pageIndex": 3,
+          "rect": {
+            "x": 395.519,
+            "y": 444.324,
+            "width": 55.0,
+            "height": 12.96,
+            "top": 384.636,
+            "bottom": 397.596
+          },
+          "baselineY": 447.124,
+          "eraseRect": {
+            "x": 394.719,
+            "y": 444.324,
+            "width": 18.298,
+            "height": 11.96,
+            "top": 385.636,
+            "bottom": 397.596
+          }
+        },
+        {
+          "id": "cadets",
+          "label": "Cadets",
+          "page": 4,
+          "pageIndex": 3,
+          "rect": {
+            "x": 401.152,
+            "y": 426.804,
+            "width": 55.0,
+            "height": 12.96,
+            "top": 402.156,
+            "bottom": 415.116
+          },
+          "baselineY": 429.604,
+          "eraseRect": {
+            "x": 400.352,
+            "y": 426.804,
+            "width": 18.173,
+            "height": 11.96,
+            "top": 403.156,
+            "bottom": 415.116
+          }
+        }
+      ]
+    }
+  ],
+  "hazards": [
+    {
+      "index": 0,
+      "page": 4,
+      "pageIndex": 3,
+      "fields": [
+        {
+          "id": "step",
+          "rect": {
+            "x": 75.48,
+            "y": 178.44,
+            "width": 105.96,
+            "height": 17.52,
+            "top": 645.96,
+            "bottom": 663.48
+          }
+        },
+        {
+          "id": "hazard",
+          "rect": {
+            "x": 187.44,
+            "y": 178.44,
+            "width": 107.28,
+            "height": 17.52,
+            "top": 645.96,
+            "bottom": 663.48
+          }
+        },
+        {
+          "id": "risk",
+          "rect": {
+            "x": 300.72,
+            "y": 178.44,
+            "width": 105.96,
+            "height": 17.52,
+            "top": 645.96,
+            "bottom": 663.48
+          }
+        },
+        {
+          "id": "control",
+          "rect": {
+            "x": 412.68,
+            "y": 178.44,
+            "width": 107.16,
+            "height": 17.52,
+            "top": 645.96,
+            "bottom": 663.48
+          }
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "page": 4,
+      "pageIndex": 3,
+      "fields": [
+        {
+          "id": "step",
+          "rect": {
+            "x": 75.48,
+            "y": 154.44,
+            "width": 105.96,
+            "height": 17.52,
+            "top": 669.96,
+            "bottom": 687.48
+          }
+        },
+        {
+          "id": "hazard",
+          "rect": {
+            "x": 187.44,
+            "y": 154.44,
+            "width": 107.28,
+            "height": 17.52,
+            "top": 669.96,
+            "bottom": 687.48
+          }
+        },
+        {
+          "id": "risk",
+          "rect": {
+            "x": 300.72,
+            "y": 154.44,
+            "width": 105.96,
+            "height": 17.52,
+            "top": 669.96,
+            "bottom": 687.48
+          }
+        },
+        {
+          "id": "control",
+          "rect": {
+            "x": 412.68,
+            "y": 154.44,
+            "width": 107.16,
+            "height": 17.52,
+            "top": 669.96,
+            "bottom": 687.48
+          }
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "page": 4,
+      "pageIndex": 3,
+      "fields": [
+        {
+          "id": "step",
+          "rect": {
+            "x": 75.48,
+            "y": 130.44,
+            "width": 105.96,
+            "height": 17.52,
+            "top": 693.96,
+            "bottom": 711.48
+          }
+        },
+        {
+          "id": "hazard",
+          "rect": {
+            "x": 187.44,
+            "y": 130.44,
+            "width": 107.28,
+            "height": 17.52,
+            "top": 693.96,
+            "bottom": 711.48
+          }
+        },
+        {
+          "id": "risk",
+          "rect": {
+            "x": 300.72,
+            "y": 130.44,
+            "width": 105.96,
+            "height": 17.52,
+            "top": 693.96,
+            "bottom": 711.48
+          }
+        },
+        {
+          "id": "control",
+          "rect": {
+            "x": 412.68,
+            "y": 130.44,
+            "width": 107.16,
+            "height": 17.52,
+            "top": 693.96,
+            "bottom": 711.48
+          }
+        }
+      ]
+    }
+  ],
+  "remarks": {
+    "id": "remarks",
+    "page": 5,
+    "pageIndex": 4,
+    "rect": {
+      "x": 77.64,
+      "y": 407.92,
+      "width": 440.04,
+      "height": 74,
+      "top": 360,
+      "bottom": 434
+    }
+  },
+  "notes": {
+    "no": "If the answer to any of the above is “No”, comments are mandatory, and the activity cannot commence until the associated Hazard Risk Assessment or Standing Risk Profile has been reassessed, and the residual risk is assessed as being acceptable.",
+    "na": "If the answer is Not Applicable (N/A), comments are mandatory.",
+    "hazards": "Unexpected Hazards and Risks arising during the risk assessment process or the activity: If an unexpected Hazard or risk arises at the site before or during the activity, the Supervisor is required to rate the risk using the SRA risk Matrix and determine an appropriate control or cease the Activity, complete the following table and advise the control measure to all members."
+  },
+  "exportNotes": [
+    "Preserve all original pages and printed guidance.",
+    "CommentRegion is only blank space below original guidance; null means no safe inline space, requiring a labelled continuation page.",
+    "The medical review item continues across pages 2 and 3. Treat as one item, mirror yes/no mark on both page sections if desired.",
+    "Black N/A cells are represented as naAllowed=false based on visual/source geometry; this is a source-layout inference.",
+    "Headcount eraseRect covers printed underscores only; replace those with entered count.",
+    "Hazard row cells are small; spill long text into continuation pages with row/column labels rather than truncate.",
+    "Debrief guidance asks for a copy of notes to be attached; a debrief notes field can append text as attachment/continuation.",
+    "Signature spaces are blank. A finger-drawn signature can be placed in each rect; no signature exists in the source.",
+    "No and N/A require comments; HRA/SRP must be reassessed and residual risk acceptable after a No before commencement. The source has no HRA/SRP risk matrix content."
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "chapter-01",
+    "chapter": 1,
+    "title": "Routine Parade",
+    "map": "assets/chapter-01.json"
+  },
+  {
+    "id": "chapter-02",
+    "chapter": 2,
+    "title": "Ceremonial Marching and Drills",
+    "map": "assets/chapter-02.json"
+  },
+  {
+    "id": "chapter-03",
+    "chapter": 3,
+    "title": "Band and Drum Corps",
+    "map": "assets/chapter-03.json"
+  },
+  {
+    "id": "chapter-04",
+    "chapter": 4,
+    "title": "Domestic Travel",
+    "map": "assets/chapter-04.json"
+  },
+  {
+    "id": "chapter-05",
+    "chapter": 5,
+    "title": "International Travel",
+    "map": "assets/chapter-05.json"
+  },
+  {
+    "id": "chapter-06",
+    "chapter": 6,
+    "title": "Accommodation and Ablutions",
+    "map": "assets/chapter-06.json"
+  },
+  {
+    "id": "chapter-07",
+    "chapter": 7,
+    "title": "Camping and Bushwalking",
+    "map": "assets/chapter-07.json"
+  },
+  {
+    "id": "chapter-08",
+    "chapter": 8,
+    "title": "Third Party Provided Activities",
+    "map": "assets/chapter-08.json"
+  },
+  {
+    "id": "chapter-09",
+    "chapter": 9,
+    "title": "Snow Skiing and Snowboarding",
+    "map": "assets/chapter-09.json"
+  },
+  {
+    "id": "chapter-10",
+    "chapter": 10,
+    "title": "Cooking (Including Galley or BBQ)",
+    "map": "assets/chapter-10.json"
+  },
+  {
+    "id": "chapter-11",
+    "chapter": 11,
+    "title": "Weapons Handling and Firing",
+    "map": "assets/chapter-11.json"
+  },
+  {
+    "id": "chapter-12",
+    "chapter": 12,
+    "title": "Swimming",
+    "map": "assets/chapter-12.json"
+  },
+  {
+    "id": "chapter-13",
+    "chapter": 13,
+    "title": "Swim Test",
+    "map": "assets/chapter-13.json"
+  },
+  {
+    "id": "chapter-14",
+    "chapter": 14,
+    "title": "Pool Snorkeling",
+    "map": "assets/chapter-14.json"
+  },
+  {
+    "id": "chapter-15",
+    "chapter": 15,
+    "title": "Canoeing and Kayaking",
+    "map": "assets/chapter-15.json"
+  },
+  {
+    "id": "chapter-16",
+    "chapter": 16,
+    "title": "Standup Paddleboarding",
+    "map": "assets/chapter-16.json"
+  },
+  {
+    "id": "chapter-17",
+    "chapter": 17,
+    "title": "Pulling Boat",
+    "map": "assets/chapter-17.json"
+  },
+  {
+    "id": "chapter-18",
+    "chapter": 18,
+    "title": "Powerboating",
+    "map": "assets/chapter-18.json"
+  },
+  {
+    "id": "chapter-19",
+    "chapter": 19,
+    "title": "Sailing",
+    "map": "assets/chapter-19.json"
+  },
+  {
+    "id": "chapter-20",
+    "chapter": 20,
+    "title": "General Activities",
+    "map": "assets/chapter-20.json"
+  }
+]
